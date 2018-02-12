@@ -1,37 +1,100 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BOUN-ETM58D/boun-etm58d.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Week 2 (Feb 12, 2017)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++ Introduction to R ([html](files/01_R_Basics.html) \| [pdf](files/01_R_Basics.pdf))
++ Some base R exercises ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma.html)) ([Solutions](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma_cozumler.html))
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Extra Materials
 
-```markdown
-Syntax highlighted code block
+For audiovisual learners, some webinars [here](https://www.rstudio.com/resources/webinars/).
 
-# Header 1
-## Header 2
-### Header 3
+### dplyr
 
-- Bulleted
-- List
++ [Official dplyr tutorial](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
++ [dplyr join functions](http://stat545.com/bit001_dplyr-cheatsheet.html)
++ [dplyr join functions official tutorial](https://cran.r-project.org/web/packages/dplyr/vignettes/two-table.html)
++ [dplyr Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
 
-1. Numbered
-2. List
+### ggplot2
 
-**Bold** and _Italic_ and `Code` text
++ [ggplot2 Tidyverse Page](http://ggplot2.tidyverse.org/)
++ [R4DS Book - Data Visualization](http://r4ds.had.co.nz/data-visualisation.html)
++ [ggplot2 Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
++ [ggplot2 Gallery](http://www.r-graph-gallery.com/portfolio/ggplot2-package/)
 
-[Link](url) and ![Image](src)
-```
+### RMarkdown
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
++ [Introduction to RMarkdown - Official](http://rmarkdown.rstudio.com/lesson-1.html)
++ [R4DS Book - Communication](http://r4ds.had.co.nz/communicate-intro.html)
++ [DataCamp - Authoring R Markdown Reports Free Part](https://www.datacamp.com/courses/reporting-with-r-markdown)
++ [RMarkdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference-guide.png)
 
-### Jekyll Themes
+### Shiny
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BOUN-ETM58D/boun-etm58d.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
++ [Shiny Tutorial](https://shiny.rstudio.com/tutorial/)
++ [ShinyJS](https://deanattali.com/shinyjs/)
++ [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/)
++ [Shinyapps.io - Publish Your Shiny Products](http://shinyapps.io/)
++ [htmlwidgets](http://www.htmlwidgets.org/)
 
-### Support or Contact
+### RStudio
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++ [RStudio - Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
+
+
+## Supplementary Documents
+
++ Quick Introduction to R Markdown ([html](files/QuickIntroRMarkdown.html))
++ RMarkdown Instructions ([html](files/rmarkdown_instructions.pdf))
+
+## External Good Resources About R and Data Science
+
++ [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/book.html)
++ [R for Data Science](http://r4ds.had.co.nz/)
++ [R'a Hızlı Giriş (Türkçe)](https://r338.github.io/ab-2017/dokumanlar/RHizliGiris.pdf)
++ [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
++ [Advanced R](http://adv-r.had.co.nz/)
++ [Bookdown Compilation](https://bookdown.org/)
++ [Akademik Bilişim 2017 - R ile Veri Analizi Dersi](https://r338.github.io/ab-2017/)
++ [BOUN-FE 522](https://github.com/berkorbay/fe522)
++ [Learn X in Y Minutes - R](https://learnxinyminutes.com/docs/r/)
++ [dplyr vignettes](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
++ [ggplot2 workshop](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html)
++ [RStudio Cheat Sheets (Base R, dplyr, ggplot2, RMarkdown etc.)](https://www.rstudio.com/resources/cheatsheets/)
++ [R Reference Cards](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
++ [data.table Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/datatable_Cheat_Sheet_R.pdf)
+
+
+## Data Sets for Prospective Projects
+
++ YÖK
+
+[https://yokatlas.yok.gov.tr/](https://yokatlas.yok.gov.tr/)
+[https://istatistik.yok.gov.tr/](https://istatistik.yok.gov.tr/)
+
++ ÖSYS
+
+[http://www.osym.gov.tr/TR,6552/sureli-yayinlar.html](http://www.osym.gov.tr/TR,6552/sureli-yayinlar.html)
+
++ EPİAŞ
+
+[https://seffaflik.epias.com.tr/transparency/](https://seffaflik.epias.com.tr/transparency/)
+
++ SPK
+
+[http://www.spk.gov.tr/indexcont.aspx?action=showpage&showmenu=yes&menuid=9&pid=0&subid=1&submenuheader=0](http://www.spk.gov.tr/indexcont.aspx?action=showpage&showmenu=yes&menuid=9&pid=0&subid=1&submenuheader=0)
+
++ Merkez Bankası - CBRT
+
+[http://evds2.tcmb.gov.tr/](http://evds2.tcmb.gov.tr/)
+
++ Emeklilik Gözetim Merkezi
+
+[http://www.egm.org.tr/?pid=351](http://www.egm.org.tr/?pid=351)
+
++ TURKSTAT - TUIK
+
+[http://www.tuik.gov.tr/Start.do](http://www.tuik.gov.tr/Start.do)
+
+[http://www.tuik.gov.tr/takvim/tkvim.zul?submenuheader=0#tb1](http://www.tuik.gov.tr/takvim/tkvim.zul?submenuheader=0#tb1)
