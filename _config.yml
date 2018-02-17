@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: ETM58D - Business Analytics Course Webpage
+description: 2017 - 2018 Spring - Bogazici University
+encoding: utf-8
+exclude:
+    - "*.Rmd"

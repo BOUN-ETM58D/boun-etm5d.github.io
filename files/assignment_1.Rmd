@@ -1,0 +1,28 @@
+---
+title: "Assignment 1 - Interesting R Examples"
+author: "Berk Orbay (Instructor\'s Example)"
+date: "26/02/2018"
+output: html_document
+---
+
+# Part 1 - RStudio Conference
+
+I found the [Machine Learning with R and TensorFlow](https://www.youtube.com/watch?v=atiYXm7JZv0) presentation by J.J. Allaire, CEO of RStudio, especially interesting. He makes an introduction of TensorFlow, provides context to R, spells our some related packages, talks about deep learning and there are live examples. Here is a post related to the talk you can find the slides also ([click](https://rviews.rstudio.com/2018/02/14/deep-learning-rstudio-conf-2018/)).
+
+# Part 2 - Three R Examples about My Work
+
+As a co-instructor of BOUN 58D my objective is to teach R in a relevant context to the students so they can apply these skills in their work environment. I need strong but comprehensible and even practical material to present to the students and convey the information in such a way that they take the essentials during lecture hours but progress in their own time in the most effectiv way as possible.
+
+## Example 1 - Base R Reference Card
+
+Even though R is greatly enriched with the package environment, base R is like a shark. It was here before the packages, it will be here for a long time as base R makes the spine of the R environment. Here is a good reference sheet for many base R functions ([click](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)).
+
+Cute note: I refer as base R because `base` is actually a package that is loaded with the R automatically.
+
+## Example 2 - R for Data Science Book
+
+If data science is the hype of today, tidyverse is the easiest way to get in and go forward for a long way. The creator of many tidyverse packages Hadley Wickham has a very nice book "R for Data Science" with Garrett Grolemund. It describes the tidy workflow and provides applicable code so that you can code and follow the content. Oh, and the book is free ([click](http://r4ds.had.co.nz/)).
+
+## Example 3 - Writing an R Package from Scratch
+
+Making an R package the ultimate skill for coding and it is quite easy. Just follow Hillary Parker's humorous and step-by-step guide and in short amount of time you will be able to write your own packages. The post has other links that might be useful in package making ([click](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)).

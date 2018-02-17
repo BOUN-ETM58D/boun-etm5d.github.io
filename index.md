@@ -1,5 +1,25 @@
 
-# Week 2 (Feb 12, 2017)
+## Assignment 1 - Find Examples (Due Date: Feb 26, 19:00)
+
++ Finish the Base R Exercises of Week 2. Do not report, just code them yourself. We are not going to return to base R but it is essential that you get them well enough.
+
++ Learn RMarkdown, it is easy. Here is some material to get you started.
+    + Quick Introduction to R Markdown ([html](files/QuickIntroRMarkdown.html))
+    + RMarkdown Instructions ([html](files/rmarkdown_instructions.pdf))
+    + Check the RMarkdown official materials below in the Extra Materials section.
+
++ Find some very good material from RStudio Conference 2018 and even you can check 2017 conference. Links are given below.
+    + [Twitter Hashtag](https://twitter.com/hashtag/rstudioconf?lang=en)
+    + [GitHub Repository](https://github.com/rstudio/rstudio-conf)
+    + [RStudio Blog](https://blog.rstudio.com/categories/rstudioconf)
+
++ Describe your current work and position. Find three good examples about R related to your work that can help you.
+
++ Prepare your Rmd files and generated html files but, do not submit yet. We are going to learn Github repositories and GitHub Pages. See the instructor's example from [here](files/assignment_1.html) and get the example Rmd file from [here](files/assignment_1.Rmd).
+
++ Strongly recommended: Subscribe to RWeekly and R-Bloggers.
+
+# Week 2 (Feb 12, 2018)
 
 + Introduction to R ([html](files/01_R_Basics.html) \| [pdf](files/01_R_Basics.pdf))
 + Some base R exercises ([html](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma.html)) ([Solutions](https://r338.github.io/ab-2017/dokumanlar/dokuman_temel_alistirma_cozumler.html))
