@@ -1,3 +1,8 @@
+# Week 2 (Feb 12, 2018)
+
++ Tidyverse Introduction ([html](files/tidyverse_intro.html) \| [pdf](files/tidyverse_intro.pdf))
++ Progress Journal Tutorial ([pdf](files/hw_tutorial.pdf))
+
 
 ## Assignment 1 - Find Examples (Due Date: Feb 26, 19:00)
 
