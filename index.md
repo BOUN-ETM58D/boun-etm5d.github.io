@@ -20,7 +20,7 @@
 
 + Describe your current work and position. Find three good examples about R related to your work that can help you.
 
-+ Prepare your Rmd files and generated html files but, do not submit yet. We are going to learn Github repositories and GitHub Pages. See the instructor's example from [here](files/assignment_1.html) and get the example Rmd file from [here](files/assignment_1.Rmd).
++ Prepare your Rmd files and generated html files but, do not submit yet. We are going to learn Github repositories and GitHub Pages. See the instructor's example from [here](files/assignment_1.html) and get the example Rmd file from [here](https://raw.githubusercontent.com/BOUN-ETM58D/boun-etm58d.github.io/master/files/assignment_1.Rmd).
 
 + Strongly recommended: Subscribe to RWeekly and R-Bloggers.
 
