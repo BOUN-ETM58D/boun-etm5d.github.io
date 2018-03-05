@@ -1,8 +1,18 @@
-# Week 2 (Feb 12, 2018)
+## Assignment 3 - Some Initial Data Analysis (Due Date: Mar 12, 23:00)
+
++ Download and load [OSYM Data](files/osym_data_2017_v2.RData).
++ Using dplyr explore the data. See some examples [here](https://mef-bda503.github.io/works17F.html) in group progress journals.
++ Report your steps, your code and findings using RMarkdown generated html files. Two or three analyses are fine. You can work in groups of 3 or temporarily work individually.
++ You don't need to submit anything but next week (Mar. 12) I will ask you to present some of these findings in class.
+
+## Assignment 2 - Set Up Your Progress Journal (Due Date: Mar 12, 23:00)
+
++ With the instructions on moodle, update your progress journals.
+
+# Week 4 (Feb 26, 2018)
 
 + Tidyverse Introduction ([html](files/tidyverse_intro.html) \| [pdf](files/tidyverse_intro.pdf))
 + Progress Journal Tutorial ([pdf](files/hw_tutorial.pdf))
-
 
 ## Assignment 1 - Find Examples (Due Date: Feb 26, 19:00)
 
