@@ -1,0 +1,40 @@
+---
+title: "Tidy Analysis of OSYM Data"
+author: Name Surname
+date: April 9, 2018
+output:
+  html_document:
+    toc: false
+  pdf_document:
+    toc: false
+    toc_depth: 3
+---
+
+```{r,echo=FALSE,results="hide",message=FALSE}
+library(knitr)
+opts_chunk$set(tidy.opts=list(width.cutoff=60),tidy=TRUE)
+```
+
+This is an individual in-class exercise. At the end of the exercise, please upload html outputs to your Progress Journals. 
+
+1. Get the highest `max_score` programs from each `exam_type`.
+
+```{r}
+"Your R Code Here"
+```
+
+2. Plot the top 10 programs of İSTANBUL ÜNİVERSİTESİ in terms of total quota in a bar chart.
+
+3. Calculate the fill rate (sum(`general_placement`)/sum(`general_quota`)) per city and return the top 10 cities.
+
+4. Find full (`general_placement` == `general_quota`) Endüstri Mühendisliği programs (use `grepl`) and draw a scatterplot of min_score vs max_score. Set transparency parameter (`alpha`) to 0.7. Set program colors according to whether it is a foundation university or state university. (Tip: State university programs ids start with 1, foundation 2, KKTC 3 and other abroad 4. You can use `substr` function.).
+
+5. Find the top 10 faculties with the highest quotas and draw a bar chart. Ignore similar names and typos in faculty names.
+
+6. Find all full medicine programs (Tıp but not Tıp Mühendisliği) of foundation universities group by university calculate total quotas per university and maximum max_score and minimum min_score as bounds, ordered and colored by total quota. (Tip: Use `geom_crossbar`)
+
+7. Freestyle: Do an analysis that compares the mechanical engineering (Makine Mühendisliği) and civil engineering (İnşaat Mühendisliği) programs.
+
+8. Freestyle: Compare Koç University with Bilkent University.
+
+9. Freestyle: Do your best.

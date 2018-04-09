@@ -1,10 +1,34 @@
-# Week 4 (Feb 26, 2018)
+
+# Progress Journals
+
++ [Deniz Argüden](https://boun-etm58d.github.io/pj-Denizarguden/)
++ [Gülnur Acar](https://boun-etm58d.github.io/pj-GulnurAcar/)
++ [Berehan Mermer](https://boun-etm58d.github.io/pj-Berahan/)
++ [Damla Yağmur Göksu](https://boun-etm58d.github.io/pj-dgoksu/)
++ [Oğuz Öcal](https://boun-etm58d.github.io/pj-oguzocal/)
++ [Sezgin Yıldız](https://boun-etm58d.github.io/pj-SezginYildiz)
++ [Tarkan Açıkelim](https://boun-etm58d.github.io/pj-tarkanacikelim)
++ [Ilgaz Yüksel](https://boun-etm58d.github.io/pj-ilgazyuksel)
++ [Tayfun Gümüş](https://boun-etm58d.github.io/pj-Tayfungumus)
++ [Alp Biberoğlu](https://boun-etm58d.github.io/pj-alpbiberoglu)
++ [Zeynep Kavcıoğlu](https://boun-etm58d.github.io/pj-zeynepkavcioglu)
+
+# Group Progress Journals
+
++ [Group 1 - Deniz-Zeynep-Tayfun](https://boun-etm58d.github.io/gpj-deniz-zeynep-tayfun)
++ [Group 2 - Ilgaz-Oğuz-Tarkan-Yağmur](https://boun-etm58d.github.io/gpj-ilgaz_oguz_tarkan_yagmur)
+
+# Week 10 (April 9, 2018)
+
++ OSYM Data Tidy Analysis Exercise [Template](files/osym_data_analysis_template.Rmd)
++ Shiny Exercise
+
+# Week 4 - 8 (Feb 26, 2018 - March 26, 2018)
 
 + Tidyverse Introduction 2: ggplot2 ([html](files/tidyverse_intro_ggplot2.html) \| [pdf](files/tidyverse_intro_ggplot2.pdf))
 + Intro to ML - 1 ([html](files/intro_to_ml.html) \| [pdf](files/intro_to_ml.pdf))
 + Intro to ML - 2 ([html](files/intro_to_ml_2.html) \| [pdf](files/intro_to_ml_2.pdf))
 + [Data Sets](files/data.zip)
-
 
 ## Assignment 3 - Some Initial Data Analysis (Due Date: Mar 12, 23:00)
 
