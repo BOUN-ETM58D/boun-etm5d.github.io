@@ -1,16 +1,18 @@
 
 # Progress Journals
 
-+ [Deniz Argüden](https://boun-etm58d.github.io/pj-Denizarguden/)
-+ [Gülnur Acar](https://boun-etm58d.github.io/pj-GulnurAcar/)
+_Sorted by first name_
+
++ [Alp Biberoğlu](https://boun-etm58d.github.io/pj-alpbiberoglu)
 + [Berehan Mermer](https://boun-etm58d.github.io/pj-Berahan/)
 + [Damla Yağmur Göksu](https://boun-etm58d.github.io/pj-dgoksu/)
++ [Deniz Argüden](https://boun-etm58d.github.io/pj-Denizarguden/)
++ [Gülnur Acar](https://boun-etm58d.github.io/pj-GulnurAcar/)
++ [Ilgaz Yüksel](https://boun-etm58d.github.io/pj-ilgazyuksel)
 + [Oğuz Öcal](https://boun-etm58d.github.io/pj-oguzocal/)
 + [Sezgin Yıldız](https://boun-etm58d.github.io/pj-SezginYildiz)
 + [Tarkan Açıkelim](https://boun-etm58d.github.io/pj-tarkanacikelim)
-+ [Ilgaz Yüksel](https://boun-etm58d.github.io/pj-ilgazyuksel)
 + [Tayfun Gümüş](https://boun-etm58d.github.io/pj-Tayfungumus)
-+ [Alp Biberoğlu](https://boun-etm58d.github.io/pj-alpbiberoglu)
 + [Zeynep Kavcıoğlu](https://boun-etm58d.github.io/pj-zeynepkavcioglu)
 
 # Group Progress Journals
