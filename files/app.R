@@ -10,7 +10,7 @@
 library(shiny)
 library(tidyverse)
 # library(plotly)
-# library(ggplot2movies)
+library(ggplot2movies)
 #
 # set.seed(61)
 shiny_movie_set = movies %>% filter(year >= 2000) %>%
@@ -76,4 +76,3 @@ server <- function(input, output) {
 
 # Run the application
 shinyApp(ui = ui, server = server)
-
