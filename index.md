@@ -23,7 +23,7 @@ _Sorted by first name_
 # Week 10 (April 9, 2018)
 
 + OSYM Data Tidy Analysis Exercise [Template](https://raw.githubusercontent.com/BOUN-ETM58D/boun-etm58d.github.io/master/files/osym_data_analysis_template.Rmd)
-+ Shiny Exercise
++ Shiny Exercise [app.R](https://raw.githubusercontent.com/BOUN-ETM58D/boun-etm58d.github.io/master/files/app.R) [RData](files/shiny_movie_set.RData)
 
 # Week 4 - 8 (Feb 26, 2018 - March 26, 2018)
 
