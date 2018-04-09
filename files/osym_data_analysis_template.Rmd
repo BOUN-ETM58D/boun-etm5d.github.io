@@ -15,7 +15,14 @@ library(knitr)
 opts_chunk$set(tidy.opts=list(width.cutoff=60),tidy=TRUE)
 ```
 
-This is an individual in-class exercise. At the end of the exercise, please upload html outputs to your Progress Journals. 
+This is an individual in-class exercise. At the end of the exercise, please upload html outputs to your Progress Journals.
+
+```{r}
+library(tidyverse)
+load("/Users/berkorbay/git_repositories/boun-etm58d.github.io/files/osym_data_2017_v2.RData")
+head(osym_data_2017)
+osym_data_2017 <- osym_data_2017 %>% mutate(general_quota = as.numeric(general_quota), general_placement = as.numeric(general_placement))
+```
 
 1. Get the highest `max_score` programs from each `exam_type`.
 
@@ -24,6 +31,12 @@ This is an individual in-class exercise. At the end of the exercise, please uplo
 ```
 
 2. Plot the top 10 programs of İSTANBUL ÜNİVERSİTESİ in terms of total quota in a bar chart.
+
+```{r}
+top_10_iu <- osym_data_2017 %>% filter(university_name == "İSTANBUL ÜNİVERSİTESİ") %>% arrange(desc(general_quota)) %>% slice(1:10)
+
+ggplot(data=top_10_iu) + geom_bar(aes(x=reorder(program_name,-general_quota),y=general_quota),stat="identity") + theme(axis.text.x=element_text(angle=90))
+```
 
 3. Calculate the fill rate (sum(`general_placement`)/sum(`general_quota`)) per city and return the top 10 cities.
 
