@@ -20,6 +20,16 @@ _Sorted by first name_
 + [Group 1 - Deniz-Zeynep-Tayfun](https://boun-etm58d.github.io/gpj-deniz-zeynep-tayfun)
 + [Group 2 - Ilgaz-Oğuz-Tarkan-Yağmur](https://boun-etm58d.github.io/gpj-ilgaz_oguz_tarkan_yagmur)
 
+# New Assignments and Deadlines
+
+_Also on Moodle_
+
++ Progress Journal and Assignment 1 (Individual) (April 10, 23:59)
++ Group Project Part I - Group Progress Journal Update (Group) (April 16, 23:59)
++ OSYM Data Tidy Analysis Exercise (Individual) (April 20, 23:59)
++ [Shiny Assignment](files/shiny_assignment_egm.pdf) (Group) ([data file](files/shiny_assignment_data.xlsx)) (April 25, 23:59)
++ [ML Assignment](files/assignment_ml.pdf) (Individual) (April 30, 23:59)
+
 # Week 10 (April 9, 2018)
 
 + OSYM Data Tidy Analysis Exercise [Template](https://raw.githubusercontent.com/BOUN-ETM58D/boun-etm58d.github.io/master/files/osym_data_analysis_template.Rmd)
