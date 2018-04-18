@@ -4,7 +4,7 @@
 _Sorted by first name_
 
 + [Alp Biberoğlu](https://boun-etm58d.github.io/pj-alpbiberoglu)
-+ [Berehan Mermer](https://boun-etm58d.github.io/pj-Berahan/)
++ [Berahan Mermer](https://boun-etm58d.github.io/pj-Berahan/)
 + [Damla Yağmur Göksu](https://boun-etm58d.github.io/pj-dgoksu/)
 + [Deniz Argüden](https://boun-etm58d.github.io/pj-Denizarguden/)
 + [Gülnur Acar](https://boun-etm58d.github.io/pj-GulnurAcar/)
@@ -19,6 +19,7 @@ _Sorted by first name_
 
 + [Group 1 - Deniz-Zeynep-Tayfun](https://boun-etm58d.github.io/gpj-deniz-zeynep-tayfun)
 + [Group 2 - Ilgaz-Oğuz-Tarkan-Yağmur](https://boun-etm58d.github.io/gpj-ilgaz_oguz_tarkan_yagmur)
++ [Group 3 - Gülnur-Sezgin-Eren-Alp](https://boun-etm58d.github.io/gpj-gulnur-sezgin-eren-alp/)
 
 # New Assignments and Deadlines
 
