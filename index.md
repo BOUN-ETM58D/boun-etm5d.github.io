@@ -17,7 +17,7 @@ _Sorted by first name_
 
 # Group Progress Journals
 
-+ [Group 1 - Deniz-Zeynep-Tayfun](https://boun-etm58d.github.io/gpj-deniz-zeynep-tayfun)
++ [Group 1 - Deniz-Zeynep-Tayfun-Berahan](https://boun-etm58d.github.io/gpj-deniz-zeynep-tayfun)
 + [Group 2 - Ilgaz-Oğuz-Tarkan-Yağmur](https://boun-etm58d.github.io/gpj-ilgaz_oguz_tarkan_yagmur)
 + [Group 3 - Gülnur-Sezgin-Eren-Alp](https://boun-etm58d.github.io/gpj-gulnur-sezgin-eren-alp/)
 
