@@ -32,6 +32,12 @@ _Also on Moodle_
 + [Shiny Assignment](files/shiny_assignment_egm.pdf) (Group) ([data file](files/shiny_assignment_data.xlsx)) (April 25, 23:59)
 + [ML Assignment](files/assignment_ml.pdf) (Individual) (April 30, 23:59)
 
+# Week 13 (May 7, 2018)
+
++ Time Series Analysis [html](files/timeseries.pdf) | [pdf](files/timeseries.pdf)
++ Electricity Consumption RData [download](files/consumption_data.RData)
+
+
 # Week 10 (April 9, 2018)
 
 + OSYM Data Tidy Analysis Exercise [Template](https://raw.githubusercontent.com/BOUN-ETM58D/boun-etm58d.github.io/master/files/osym_data_analysis_template.Rmd)
