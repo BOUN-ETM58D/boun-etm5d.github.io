@@ -7,6 +7,7 @@ _Sorted by first name_
 + [Berahan Mermer](https://boun-etm58d.github.io/pj-Berahan/)
 + [Damla Yağmur Göksu](https://boun-etm58d.github.io/pj-dgoksu/)
 + [Deniz Argüden](https://boun-etm58d.github.io/pj-Denizarguden/)
++ [Eren Demir](https://boun-etm58d.github.io/pj-erendemir/)
 + [Gülnur Acar](https://boun-etm58d.github.io/pj-GulnurAcar/)
 + [Ilgaz Yüksel](https://boun-etm58d.github.io/pj-ilgazyuksel)
 + [Oğuz Öcal](https://boun-etm58d.github.io/pj-oguzocal/)
