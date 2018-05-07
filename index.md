@@ -22,20 +22,22 @@ _Sorted by first name_
 + [Group 2 - Ilgaz-Oğuz-Tarkan-Yağmur](https://boun-etm58d.github.io/gpj-ilgaz_oguz_tarkan_yagmur)
 + [Group 3 - Gülnur-Sezgin-Eren-Alp](https://boun-etm58d.github.io/gpj-gulnur-sezgin-eren-alp/)
 
+# Week 13 (May 7, 2018)
+
++ Time Series Analysis [html](files/timeseries.html) \| [pdf](files/timeseries.pdf)
++ Electricity Consumption RData [download](files/consumption_data.RData)
+
+
 # New Assignments and Deadlines
 
 _Also on Moodle_
 
++ Group Project Part II - Group Progress Journal Update (Group) (May 14, 23:59)
 + Progress Journal and Assignment 1 (Individual) (April 10, 23:59)
 + Group Project Part I - Group Progress Journal Update (Group) (April 16, 23:59)
 + OSYM Data Tidy Analysis Exercise (Individual) (April 20, 23:59)
 + [Shiny Assignment](files/shiny_assignment_egm.pdf) (Group) ([data file](files/shiny_assignment_data.xlsx)) (April 25, 23:59)
 + [ML Assignment](files/assignment_ml.pdf) (Individual) (April 30, 23:59)
-
-# Week 13 (May 7, 2018)
-
-+ Time Series Analysis [html](files/timeseries.html) \| [pdf](files/timeseries.pdf)
-+ Electricity Consumption RData [download](files/consumption_data.RData)
 
 
 # Week 10 (April 9, 2018)
