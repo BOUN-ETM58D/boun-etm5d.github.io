@@ -34,7 +34,7 @@ _Also on Moodle_
 
 # Week 13 (May 7, 2018)
 
-+ Time Series Analysis [html](files/timeseries.pdf) | [pdf](files/timeseries.pdf)
++ Time Series Analysis [html](files/timeseries.html) \| [pdf](files/timeseries.pdf)
 + Electricity Consumption RData [download](files/consumption_data.RData)
 
 
