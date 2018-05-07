@@ -26,6 +26,7 @@ _Sorted by first name_
 
 + Time Series Analysis [html](files/timeseries.html) \| [pdf](files/timeseries.pdf)
 + Electricity Consumption RData [download](files/consumption_data.RData)
++ SecimSegment RData [download](files/secimsegment.RData)
 
 
 # New Assignments and Deadlines
